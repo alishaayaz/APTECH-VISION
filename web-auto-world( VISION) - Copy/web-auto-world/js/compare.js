@@ -1,7 +1,7 @@
 /* 
 Site Name: Auto World.com
 Documnet Type: Java Script
-Coded By Farrukh Basit Khan
+Coded By Alisha , hadia 
 */
 /*** Global Arrays Using for all functions ***/
 var bmw_128 = Array('$32,500', '3.0', '6', '230', '5', 'Convertible');
