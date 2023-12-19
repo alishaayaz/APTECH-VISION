@@ -1,7 +1,7 @@
 /* 
 Site Name: Auto World.com
 Documnet Type: Java Script
-Coded By Farrukh Basit Khan
+Coded By Alisha, Hadia
 */
 /*** Competitor 1***/
 function getOptionValue4() {
